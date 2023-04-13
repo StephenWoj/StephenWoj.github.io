@@ -1,0 +1,1 @@
+const Link = Document.GetElementsByTagName('a');
